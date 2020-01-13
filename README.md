@@ -14,5 +14,5 @@ Step 1. Add the JitPack repository to your build file
 Step 2. Add the dependency
   
   	dependencies {
-	        implementation 'com.github.rehmnabdul:ABAndroidUtils:Tag'
+	        implementation 'com.github.rehmnabdul:ABAndroidUtils:v0.1-Beta'
 	}
