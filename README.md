@@ -15,7 +15,7 @@ Step 1. Add the JitPack repository to your build file
 Step 2. Add the dependency
   
   	dependencies {
-	        implementation 'com.github.rehmnabdul:ABAndroidUtils:v[version code]'
+	        implementation 'com.github.rehmnabdul:ABAndroidUtils:[version code]'
 	}
 
 Step 3. Usage
